@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki
+END
+Display.pm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Display.pm
+END
+Config.pm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Config.pm
+END
+Widgets.pm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Widgets.pm
+END
+Javascript.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Javascript.pm
+END
+Registry.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Registry.pm
+END
+Cookie.pm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Cookie.pm
+END
+Base.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Base.pm
+END
+Template.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Template.pm
+END
+Icons.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Icons.pm
+END
+BrowserDetect.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/BrowserDetect.pm
+END
+WebFile.pm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/WebFile.pm
+END
+Command.pm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Command.pm
+END
+Hub.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Hub.pm
+END
+Archive.pm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Archive.pm
+END
+Pane.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Pane.pm
+END
+Status.pm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Status.pm
+END
+Edit.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Edit.pm
+END
+CSS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/CSS.pm
+END
+Installer.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Installer.pm
+END
+Plugin.pm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Plugin.pm
+END
+Pages.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Pages.pm
+END
+Users.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Users.pm
+END
+Preferences.pm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Preferences.pm
+END
+ContentObject.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/ContentObject.pm
+END
+CGI.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/CGI.pm
+END
+Toolbar.pm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Toolbar.pm
+END
+Files.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Files.pm
+END
+Theme.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Theme.pm
+END
+Formatter.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/lib/Kwiki/Formatter.pm
+END

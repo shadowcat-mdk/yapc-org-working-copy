@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/t
+END
+cycle.t
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/t/cycle.t
+END
+formatter_cycle.t
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/t/formatter_cycle.t
+END
+formatter1.t
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/t/formatter1.t
+END
+TestChunks.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/t/TestChunks.pm
+END
+formatter2.t
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/t/formatter2.t
+END
+formatter3.t
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/t/formatter3.t
+END
+formatter4.t
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/t/formatter4.t
+END
+compile.t
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/t/compile.t
+END
+Formatter.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/t/Formatter.pm
+END

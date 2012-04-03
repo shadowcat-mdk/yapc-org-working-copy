@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/inc/Module/Install
+END
+Scripts.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/inc/Module/Install/Scripts.pm
+END
+Fetch.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/inc/Module/Install/Fetch.pm
+END
+Base.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/inc/Module/Install/Base.pm
+END
+Makefile.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/inc/Module/Install/Makefile.pm
+END
+Metadata.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/inc/Module/Install/Metadata.pm
+END
+Can.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/inc/Module/Install/Can.pm
+END
+Win32.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/inc/Module/Install/Win32.pm
+END
+WriteAll.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/37/trunk/yapc/yapc.org/wiki/inc/Module/Install/WriteAll.pm
+END

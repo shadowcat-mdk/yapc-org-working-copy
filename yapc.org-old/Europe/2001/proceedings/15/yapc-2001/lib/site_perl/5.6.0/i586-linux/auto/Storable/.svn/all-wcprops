@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/site_perl/5.6.0/i586-linux/auto/Storable
+END
+_retrieve.al
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/site_perl/5.6.0/i586-linux/auto/Storable/_retrieve.al
+END
+retrieve.al
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/site_perl/5.6.0/i586-linux/auto/Storable/retrieve.al
+END
+_store.al
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/site_perl/5.6.0/i586-linux/auto/Storable/_store.al
+END
+store.al
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/site_perl/5.6.0/i586-linux/auto/Storable/store.al
+END
+lock_retrieve.al
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/site_perl/5.6.0/i586-linux/auto/Storable/lock_retrieve.al
+END
+nfreeze.al
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/site_perl/5.6.0/i586-linux/auto/Storable/nfreeze.al
+END
+fd_retrieve.al
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/site_perl/5.6.0/i586-linux/auto/Storable/fd_retrieve.al
+END
+Storable.so
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/site_perl/5.6.0/i586-linux/auto/Storable/Storable.so
+END
+thaw.al
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/site_perl/5.6.0/i586-linux/auto/Storable/thaw.al
+END
+lock_store.al
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/site_perl/5.6.0/i586-linux/auto/Storable/lock_store.al
+END
+_store_fd.al
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/site_perl/5.6.0/i586-linux/auto/Storable/_store_fd.al
+END
+store_fd.al
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/site_perl/5.6.0/i586-linux/auto/Storable/store_fd.al
+END
+autosplit.ix
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/site_perl/5.6.0/i586-linux/auto/Storable/autosplit.ix
+END
+nstore.al
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/site_perl/5.6.0/i586-linux/auto/Storable/nstore.al
+END
+_freeze.al
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/site_perl/5.6.0/i586-linux/auto/Storable/_freeze.al
+END
+freeze.al
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/site_perl/5.6.0/i586-linux/auto/Storable/freeze.al
+END
+lock_nstore.al
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/site_perl/5.6.0/i586-linux/auto/Storable/lock_nstore.al
+END
+Storable.bs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/site_perl/5.6.0/i586-linux/auto/Storable/Storable.bs
+END
+nstore_fd.al
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/site_perl/5.6.0/i586-linux/auto/Storable/nstore_fd.al
+END

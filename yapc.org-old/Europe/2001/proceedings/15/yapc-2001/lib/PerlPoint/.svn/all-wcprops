@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/PerlPoint
+END
+fields.pm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/PerlPoint/fields.pm
+END
+Backend.pm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/PerlPoint/Backend.pm
+END
+Parser.pm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/PerlPoint/Parser.pm
+END
+Constants.pm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/PerlPoint/Constants.pm
+END
+Tags.pm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/35/trunk/yapc/yapc.org/Europe/2001/proceedings/15/yapc-2001/lib/PerlPoint/Tags.pm
+END
